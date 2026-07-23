@@ -1,6 +1,6 @@
 struct Constants {
 
     static func run() {
-        print("This is Constants file")
+        print("This is Constant file")
     }
 }
