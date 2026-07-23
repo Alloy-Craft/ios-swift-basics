@@ -1,4 +1,4 @@
-struct Data_Types01 {
+struct Data_Types {
 
     static func run() {
         // Basic Types -> int, double, float, bool, string, character
