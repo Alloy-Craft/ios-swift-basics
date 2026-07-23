@@ -1,4 +1,4 @@
-struct Data_Types02 {
+struct Arrays {
     static func run() {
         // Collection Types -> array, dictionary, set
         var someNumbers: [Int] = [1, 2, 3, 4, 5]
