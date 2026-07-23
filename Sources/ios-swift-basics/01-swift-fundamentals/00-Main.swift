@@ -6,6 +6,7 @@ struct Main {
         // Data_Types.run()
         // Arrays.run()
         // Sets.run()
-        Dictionaries.run()
+        // Dictionaries.run()
+        IfElse.run()
     }
 }
