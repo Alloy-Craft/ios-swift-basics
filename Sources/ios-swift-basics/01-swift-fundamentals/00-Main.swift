@@ -5,6 +5,7 @@ struct Main {
         // Variables.run()
         // Data_Types.run()
         // Arrays.run()
-        Sets.run()
+        // Sets.run()
+        Dictionaries.run()
     }
 }
